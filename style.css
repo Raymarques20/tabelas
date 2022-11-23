@@ -1,11 +1,12 @@
 table {
-
-background:green;
+background:;
 }
 thead {
-
-background: #555555;
-
-color: white;
-
+background:;
+color: ;
 font-weight: bold;
+}
+td {
+border: 1px solid;
+border-color:green ;
+}
